@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_REST_TP2", "API_REST_TP2\API_REST_TP2.csproj", "{0C84489B-2954-44EC-8106-7ECA85F3091A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_REST_TP2", "API_REST_TP2\API_REST_TP2.csproj", "{0C84489B-2954-44EC-8106-7ECA85F3091A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_REST_TP2Tests", "API_REST_TP2Tests\API_REST_TP2Tests.csproj", "{50F26818-AA9A-49B6-907B-3148D30094A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0C84489B-2954-44EC-8106-7ECA85F3091A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C84489B-2954-44EC-8106-7ECA85F3091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C84489B-2954-44EC-8106-7ECA85F3091A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F26818-AA9A-49B6-907B-3148D30094A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F26818-AA9A-49B6-907B-3148D30094A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F26818-AA9A-49B6-907B-3148D30094A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F26818-AA9A-49B6-907B-3148D30094A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
